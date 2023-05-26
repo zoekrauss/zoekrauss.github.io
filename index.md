@@ -5,7 +5,7 @@ classes: wide
 title: ""
 permalink: /
 header:
-    image: "/assets/images/bio-image.jpeg"
+    image: "/assets/images/seafloor-rift.jpg"
 ---
 
 ## I study the tectonic boundaries that lie beneath our oceans using seismology.
