@@ -16,10 +16,16 @@
 title: Zoe Krauss
 email: zkrauss@uw.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi! I study marine seismology at the University of Washington.
+  Personal site for Zoe Krauss.
 github_username: zoekrauss
-minimal_mistakes_skin: default
-search: true
+minimal_mistakes_skin: dirt
+search: false
+locale: "en-US"
+url: "https://zoekrauss.github.io"
+
+atom_feed:
+  hide: true
+
 
 # Build settings
 markdown: kramdown
@@ -57,29 +63,29 @@ plugins:
 author:
   name   : "Zoe Krauss"
   avatar : "/assets/images/bio-image.jpeg"
-  bio    : "Earthquakes!"
+  bio    : "Marine Seismology Ph.D Candidate, University of Washington, School of Oceanography"
+  location: "Seattle, WA"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/KraussZoe"
+    - label: "UW SoO"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://www.ocean.washington.edu/home/Zoe_Krauss"
+    - label: "zkrauss@uw.edu"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:zkrauss@uw.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/zoekrauss"
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/files/cv_krauss.pdf"
+      
+
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
@@ -100,6 +106,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      classes: wide
 
 category_archive:
   type: liquid
