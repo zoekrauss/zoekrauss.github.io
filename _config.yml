@@ -62,7 +62,7 @@ plugins:
 
 author:
   name   : "Zoe Krauss"
-  avatar : "/assets/images/bio-image.jpeg"
+  avatar : "/assets/images/bio-image.jpg"
   bio    : "Marine Seismology Ph.D Candidate, University of Washington, School of Oceanography"
   location: "Seattle, WA"
   links:
