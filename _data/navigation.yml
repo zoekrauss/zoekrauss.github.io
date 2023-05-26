@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Research"
+    url: /research/
+  - title: "Computing"
+    url: /computing/
+  - title: "Teaching & Engagement"
+    url: /teaching/
+  # - title: "About me"
+  #   url: /about/
+  - title: "CV"
+    url: /files/cv_krauss.pdf
