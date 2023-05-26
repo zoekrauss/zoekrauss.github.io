@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Zoe Krauss"
-  avatar : "/assets/images/image.png"
+  avatar : "/assets/images/bio-image.jpeg"
   bio    : "Earthquakes!"
   links:
     - label: "Website"
