@@ -5,7 +5,7 @@ classes: wide
 title: ""
 permalink: /
 header:
-    image: "/assets/images/website-header.jpg"
+    image: "/assets/images/obs_drop.jpg"
 ---
 
 ## THIS PAGE IS UNDER CONSTRUCTION!
