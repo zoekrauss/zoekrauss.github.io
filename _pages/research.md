@@ -23,7 +23,7 @@ To work towards answering these questions, I am starting a project to analyze se
 
 My master's work compiled more than 20 years of OBS network data from multiple deployments to create a long-term earthquake catalog for the Endeavour segment of the Juan de Fuca ridge, an intermediate-rate spreading ridge off the coast of the Pacific Northwest. 
 
-This catalog suggests that the next extensional spreading event at the Endeavour segment will occur within the next 5 years. We are currently monitoring the ongoing seismicity [here](https://endeavour.ocean.washington.edu). 
+This catalog suggests that the next extensional spreading event at the Endeavour segment will occur within the next 5 years. We are currently monitoring the ongoing seismicity [here](endeavour.ocean.washington.edu). 
 
 I am working with scientists at Ocean Networks Canada to monitor activity at the Endeavour segment using the NEPTUNE cabled OBS network.
 
