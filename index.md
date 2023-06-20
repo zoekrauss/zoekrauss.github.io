@@ -10,9 +10,9 @@ header:
 
 ## THIS PAGE IS UNDER CONSTRUCTION!
 
-I study the tectonic boundaries that lie beneath our oceans using seismology. I am a Ph.D. candidate supervised by Dr. William Wilcock.
+I study the tectonic boundaries that lie beneath our oceans using seismology. 
 
-Before coming to the University of Washington in September 2019, I earned a B.A. in Physics with a Geophysics emphasis from Colorado College in May 2019.
+I'm currently a Ph.D. student at the University of Washington, supervised by Dr. William Wilcock. Before coming to the University of Washington in September 2019, I earned a B.A. in Physics with a Geophysics emphasis from Colorado College in May 2019.
 
 ## News and Updates
 
