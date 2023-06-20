@@ -11,7 +11,7 @@ I study seismic signals recorded on ocean bottom seismometers (OBS), including e
 
 ## Searching for shallow tremor in the Cascadia subduction zone using cabled OBS
 
-![CSZ](assets/images/CSZ_websitefigure.jpeg)
+![CSZ](CSZ_websitefigure.jpeg)
 
 An important standing question, with strong implications for the hazard expected from a large earthquake, is: how much deformation occurs on the shallow portion of the Cascadia subduction zone? Does any slip occur on the shallow plate interface, and/or surrounding subducting seamounts and splay faults? We need direct ocean bottom observations to answer these questions.
 
@@ -23,11 +23,11 @@ To work towards answering these questions, I am starting a project to analyze se
 
 My master's work compiled more than 20 years of OBS network data from multiple deployments to create a long-term earthquake catalog for the Endeavour segment of the Juan de Fuca ridge, an intermediate-rate spreading ridge off the coast of the Pacific Northwest. 
 
-This catalog suggests that the next extensional spreading event at the Endeavour segment will occur within the next 5 years.
+This catalog suggests that the next extensional spreading event at the Endeavour segment will occur within the next 5 years. We are currently monitoring the ongoing seismicity [here](https://endeavour.ocean.washington.edu). 
 
 I am working with scientists at Ocean Networks Canada to monitor activity at the Endeavour segment using the NEPTUNE cabled OBS network.
 
-This work has been published in Journal of Geophysical Research: Solid Earth.
+This work has been published in [Journal of Geophysical Research: Solid Earth](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JB025662).
 
 ## Earthquake monitoring using a single ocean bottom seismometer
 
@@ -52,5 +52,5 @@ With Marine Denolle's group and collaborators at UW's eScience Institute, I have
 We have developed and documented our experience with the cloud, including timing and costs associated with scaling, in the hopes that it may be a helpful starting point for other seismic researchers.
 
 I presented this work at SSA 2023 and we recently submitted a manuscript describing this work for publication.
-You can find the codes and tutorials associated with this project here (link). 
+You can find the codes and tutorials associated with this project [here](https://github.com/Denolle-Lab/seismicloud/tree/main). 
 
