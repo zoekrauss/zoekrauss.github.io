@@ -5,9 +5,11 @@ excerpt: "I am interested in building computational tools to ease the processing
 
 ---
 
+I have been fortunate to gain expertise in building computational tools to ease the processing of large seismic datasets. Below are some examples of my experience!
+
 # Cloud resources for running earthquake detection workflows
 
-With Marine Denolle's group and collaborators at UW's eScience Institute, I have been working to migrate our local earthquake detection workflows onto the Microsoft Azure cloud. 
+With [Marine Denolle's group](https://denolle-lab.github.io/) and collaborators at UW's eScience Institute, I have been working to migrate our local earthquake detection workflows onto the Microsoft Azure cloud. 
 
 We have developed and documented our experience with the cloud, including timing and costs associated with scaling, in the hopes that it may be a helpful starting point for other seismic researchers.
 
