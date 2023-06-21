@@ -47,6 +47,8 @@ This work has been published in [Journal of Geophysical Research: Solid Earth](h
 
 <br/><br/><br/><br/><br/><br/>
 
+<img align="left" src="endeavour_ss_website.png"> 
+
 ## Earthquake monitoring using a single ocean bottom seismometer
 
 For the period of 2011-2016, there was only one OBS functioning at the Endeavour segment. This is valuable data that we want to make the most of- but it is challenging to detect and locate earthquakes without a multi-station network!
