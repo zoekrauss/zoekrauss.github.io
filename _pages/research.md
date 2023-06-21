@@ -9,31 +9,28 @@ I study seismic signals recorded on ocean bottom seismometers (OBS), including e
 
 # The Cascadia Subduction Zone
 
-<img align="left" width="400" src="/assets/images/CSZ_websitefigure.jpeg">
-<br/>
+<img align="left" width="300" src="/assets/images/CSZ_websitefigure.jpeg">
 
 ## Searching for shallow tremor in the Cascadia subduction zone using cabled OBS
 
 <br/>
 
-Important standing questions for the Cascadia Subduction Zone with strong implications for the hazard expected from a large earthquake include: 
+There are important standing questions for the Cascadia Subduction Zone with strong implications for the hazard associated with a large earthquake.
 
-<br/>
 
 - How much deformation occurs on the shallow portion of the Cascadia subduction zone?
 - Does any slip occur on the shallow plate interface, and/or surrounding subducting seamounts and splay faults?
   
-<br/>
 
 We need direct ocean bottom observations to answer these questions.
 
 To work towards this, I am starting a project to analyze seismic time series from two cabled broadband OBS on the Ocean Observatories Initiative near the Cascadia subduction zone deformation front. We are searching for evidence of non-volcanic tremor, with a plan to classify seismic signals using unsupervised learning and comparison to environmental (wind, currents) time series. 
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/>
 
 # The Juan de Fuca Ridge
 
-<img align="right" width="400" src="/assets/images/endeavour_eq_website.jpg"> 
+<img align="right" width="290" src="/assets/images/endeavour_eq_website.jpg"> 
 
 <br/><br/>
 
@@ -49,7 +46,7 @@ This work has been published in [Journal of Geophysical Research: Solid Earth](h
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-<img align="left" src="/assets/images/endeavour_ss_website.jpg"> 
+<img align="left" width="400" src="/assets/images/endeavour_ss_website.jpg"> 
 
 ## Earthquake monitoring using a single ocean bottom seismometer
 
@@ -61,7 +58,7 @@ I am working to write up this project and will have something to share soon!
 
 <br/><br/><br/><br/><br/>
 
-<img align="right" src="/assets/images/endeavour_repeating_website.jpg"> 
+<img align="right" width="300" src="/assets/images/endeavour_repeating_website.jpg"> 
 
 ## Investigating small repeating earthquakes at the Endeavour Segment
 
