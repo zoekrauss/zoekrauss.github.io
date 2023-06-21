@@ -2,15 +2,7 @@
 permalink: /research/
 title: "Research"
 excerpt: "I am interested in studying seismic signals recorded on ocean bottom seismometers (OBS), including earthquakes and tremor, to learn about mid-ocean ridge and subduction zone processes."
-categories:
-  - Markup
-tags:
-  - alignment
-  - captions
-  - content
-  - css
-  - image
-  - markup
+
 ---
 
 I study seismic signals recorded on ocean bottom seismometers (OBS), including earthquakes and tremor, to learn about mid-ocean ridge and subduction zone processes.
