@@ -17,15 +17,23 @@ I study seismic signals recorded on ocean bottom seismometers (OBS), including e
 
 # The Cascadia Subduction Zone
 
+<img align="left" src="CSZ_websitefigure.jpg"> 
+<br/><br/>
+
 ## Searching for shallow tremor in the Cascadia subduction zone using cabled OBS
 
-<img align="left" src="CSZ_websitefigure.jpg"> An important standing question, with strong implications for the hazard expected from a large earthquake, is: how much deformation occurs on the shallow portion of the Cascadia subduction zone? Does any slip occur on the shallow plate interface, and/or surrounding subducting seamounts and splay faults? We need direct ocean bottom observations to answer these questions.
+<br/>
+An important standing question, with strong implications for the hazard expected from a large earthquake, is: how much deformation occurs on the shallow portion of the Cascadia subduction zone? Does any slip occur on the shallow plate interface, and/or surrounding subducting seamounts and splay faults? We need direct ocean bottom observations to answer these questions.
 
 To work towards answering these questions, I am starting a project to analyze seismic time series from two cabled broadband OBS on the Ocean Observatories Initiative near the Cascadia subduction zone deformation front. We are searching for evidence of non-volcanic tremor, with a plan to classify seismic signals using unsupervised learning and comparison to environmental (wind, currents) time series. 
 
-
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 # The Juan de Fuca Ridge
+
+<img align="right" src="endeavour_eq_website.png"> 
+
+<br/><br/>
 
 ## Long-term earthquake monitoring of the Endeavour segment using cabled OBS
 
@@ -36,6 +44,8 @@ This catalog suggests that the next extensional spreading event at the Endeavour
 I am working with scientists at Ocean Networks Canada to monitor activity at the Endeavour segment using the NEPTUNE cabled OBS network.
 
 This work has been published in [Journal of Geophysical Research: Solid Earth](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JB025662).
+
+<br/><br/><br/><br/><br/><br/>
 
 ## Earthquake monitoring using a single ocean bottom seismometer
 
