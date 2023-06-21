@@ -19,7 +19,7 @@ An important standing question, with strong implications for the hazard expected
 
 To work towards answering these questions, I am starting a project to analyze seismic time series from two cabled broadband OBS on the Ocean Observatories Initiative near the Cascadia subduction zone deformation front. We are searching for evidence of non-volcanic tremor, with a plan to classify seismic signals using unsupervised learning and comparison to environmental (wind, currents) time series. 
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 # The Juan de Fuca Ridge
 
@@ -37,7 +37,7 @@ I am working with scientists at Ocean Networks Canada to monitor activity at the
 
 This work has been published in [Journal of Geophysical Research: Solid Earth](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JB025662).
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 <img align="left" src="endeavour_ss_website.png"> 
 
