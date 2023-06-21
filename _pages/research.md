@@ -9,7 +9,7 @@ I study seismic signals recorded on ocean bottom seismometers (OBS), including e
 
 # The Cascadia Subduction Zone
 
-<img align="left" width="400" src="CSZ_websitefigure.jpg">
+<img align="left" width="400" src="/assets/images/CSZ_websitefigure.jpg">
 <br/>
 
 ## Searching for shallow tremor in the Cascadia subduction zone using cabled OBS
@@ -33,7 +33,7 @@ To work towards this, I am starting a project to analyze seismic time series fro
 
 # The Juan de Fuca Ridge
 
-<img align="right" width="400" src="endeavour_eq_website.png"> 
+<img align="right" width="400" src="/assets/images/endeavour_eq_website.png"> 
 
 <br/><br/>
 
@@ -49,7 +49,7 @@ This work has been published in [Journal of Geophysical Research: Solid Earth](h
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-<img align="left" src="endeavour_ss_website.png"> 
+<img align="left" src="/assets/images/endeavour_ss_website.png"> 
 
 ## Earthquake monitoring using a single ocean bottom seismometer
 
@@ -61,7 +61,7 @@ I am working to write up this project and will have something to share soon!
 
 <br/><br/><br/><br/><br/>
 
-<img align="right" src="endeavour_repeating_website.jpg"> 
+<img align="right" src="/assets/images/endeavour_repeating_website.jpg"> 
 
 ## Investigating small repeating earthquakes at the Endeavour Segment
 
