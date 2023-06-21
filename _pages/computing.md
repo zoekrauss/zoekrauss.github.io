@@ -1,6 +1,7 @@
 ---
 permalink: /computing/
 title: "Computing"
+excerpt: "I am interested in building computational tools to ease the processing of large seismic datasets."
 
 ---
 
