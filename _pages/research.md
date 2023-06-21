@@ -31,7 +31,7 @@ To work towards answering these questions, I am starting a project to analyze se
 
 My master's work compiled more than 20 years of OBS network data from multiple deployments to create a long-term earthquake catalog for the Endeavour segment of the Juan de Fuca ridge, an intermediate-rate spreading ridge off the coast of the Pacific Northwest. 
 
-This catalog suggests that the next extensional spreading event at the Endeavour segment will occur within the next 5 years. We are currently monitoring the ongoing seismicity [here](endeavour.ocean.washington.edu). 
+This catalog suggests that the next extensional spreading event at the Endeavour segment will occur within the next 5 years. We are currently monitoring the ongoing seismicity [here!](endeavour.ocean.washington.edu). 
 
 I am working with scientists at Ocean Networks Canada to monitor activity at the Endeavour segment using the NEPTUNE cabled OBS network.
 
@@ -49,20 +49,17 @@ I have explored methods of single-station earthquake location that utilize the P
 
 I am working to write up this project and will have something to share soon!
 
+<br/><br/><br/><br/><br/>
+
+<img align="right" src="endeavour_repeating_website.jpg"> 
+
 ## Investigating small repeating earthquakes at the Endeavour Segment
 
 During my master's work, we noticed that many of the earthquakes at the Endeavour segment arrived as series of highly similar multiplets, hinting at tantalizing evidence of repeating earthquakes! 
 
 I am working to identify and characterize these "repeating" earthquakes using template matching and waveform clustering. We think this may help us understand how the hydrothermal circulation cells at the Endeavour segment work, and if, where, and when any of the seafloor spreading is accomplished through slow slip. 
 
-I presented preliminary results of this work at AGU 2022. 
+I presented preliminary results of this work at AGU 2022. Check out the poster [here!](https://agu2022fallmeeting-agu.ipostersessions.com/Default.aspx?s=F4-1D-76-03-58-59-8C-6B-34-41-95-91-64-BB-1C-6C)
 
-# Cloud resources for running earthquake detection workflows
 
-With Marine Denolle's group and collaborators at UW's eScience Institute, I have been working to migrate our local earthquake detection workflows onto the Microsoft Azure cloud. 
-
-We have developed and documented our experience with the cloud, including timing and costs associated with scaling, in the hopes that it may be a helpful starting point for other seismic researchers.
-
-I presented this work at SSA 2023 and we recently submitted a manuscript describing this work for publication.
-You can find the codes and tutorials associated with this project [here](https://github.com/Denolle-Lab/seismicloud/tree/main). 
 
