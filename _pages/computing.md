@@ -7,7 +7,7 @@ excerpt: "I am interested in building computational tools to ease the processing
 
 I have been fortunate to gain expertise in building computational tools to ease the processing of large seismic datasets. Below are some examples of my experience!
 
-<img align="left" width="300" src="/assets/images/website_seismicloud.png">
+<img align="left" width="300" src="/assets/images/website_seismicloud.jpg">
 
 # Cloud resources for running earthquake detection workflows
 
