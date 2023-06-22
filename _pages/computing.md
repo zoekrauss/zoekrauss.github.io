@@ -9,7 +9,7 @@ I have been fortunate to gain expertise in building computational tools to ease 
 
 <img align="left" width="500" src="/assets/images/website_seismicloud.jpg">
 
-# Cloud resources for running earthquake detection workflows
+## Cloud resources for running earthquake detection workflows
 
 With [Marine Denolle's group](https://denolle-lab.github.io/) and collaborators at UW's eScience Institute, I have been working to migrate our local earthquake detection workflows onto the Microsoft Azure cloud. 
 
@@ -20,7 +20,7 @@ You can find the codes and tutorials associated with this project [here](https:/
 
 <img align="right" width="500" src="/assets/images/website_incubator.jpg">
 
-# eScience Incubator Program - Machine-learning-based detection of offshore earthquakes
+## eScience Incubator Program: Machine-learning-based detection of offshore earthquakes
 
 In Winter 2022, I participated in the [eScience Institute's Incubator program](https://escience.washington.edu/incubator-22-earthquakes/), where I worked alongside data scientist Scott Henderson for 10 weeks to hone my python skills and build a code base for the machine-learning-based detection of offshore earthquakes. 
 
