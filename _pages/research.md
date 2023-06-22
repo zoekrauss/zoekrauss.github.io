@@ -21,7 +21,7 @@ To work towards this, I am starting a project to analyze seismic time series fro
 
 # The Juan de Fuca Ridge
 
-<img align="right" width="300" src="/assets/images/RegionalMapMonth_202306.jpg"> 
+<img align="right" width="500" src="/assets/images/RegionalMapMonth_202306.jpg"> 
 
 ## Long-term earthquake monitoring of the Endeavour segment using cabled OBS
 
@@ -34,7 +34,7 @@ I am working with scientists at Ocean Networks Canada to monitor activity at the
 This work has been published in [Journal of Geophysical Research: Solid Earth](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JB025662).
 
 
-<img align="left" width="500" src="/assets/images/endeavour_ss_website.jpg"> 
+<img align="left" width="700" src="/assets/images/endeavour_ss_website.jpg"> 
 
 ## Earthquake monitoring using a single ocean bottom seismometer
 
@@ -45,7 +45,7 @@ I have explored methods of single-station earthquake location that utilize the P
 I am working to write up this project and will have something to share soon!
 
 
-<img align="right" width="500" src="/assets/images/endeavour_repeating_website.jpg"> 
+<img align="right" width="700" src="/assets/images/endeavour_repeating_website.jpg"> 
 
 ## Investigating small repeating earthquakes at the Endeavour Segment
 
