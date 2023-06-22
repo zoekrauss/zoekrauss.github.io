@@ -7,7 +7,7 @@ excerpt: "I am interested in building computational tools to ease the processing
 
 I have been fortunate to gain expertise in building computational tools to ease the processing of large seismic datasets. Below are some examples of my experience!
 
-<img align="left" width="300" src="/assets/images/website_seismicloud.jpg">
+<img align="left" width="500" src="/assets/images/website_seismicloud.jpg">
 
 # Cloud resources for running earthquake detection workflows
 
@@ -18,7 +18,7 @@ We have developed and documented our experience with the cloud, including timing
 I presented this work at SSA 2023 and we recently submitted a manuscript describing this work for publication.
 You can find the codes and tutorials associated with this project [here](https://github.com/Denolle-Lab/seismicloud/tree/main). 
 
-<img align="right" width="300" src="/assets/images/website_incubator.jpg">
+<img align="right" width="500" src="/assets/images/website_incubator.jpg">
 
 # eScience Incubator Program - Machine-learning-based detection of offshore earthquakes
 
