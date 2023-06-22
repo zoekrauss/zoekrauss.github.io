@@ -20,5 +20,7 @@ __April 2023:__ I traveled to Puerto Rico to present our work on building cloud 
 
 __February 2023:__ I successfully passed my Generals exam and became a Ph.D. candidate!
 
+__January 2023:__ The paper for the 20-year earthquake catalog we built for the Endeavour segment was [published open access in JGR](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JB025662)!
+
 __December 2022:__ I presented a poster at the 2022 AGU Fall Meeting on my work investigating small repeating seismicity at the Endeavour segment. Check out the poster [here!](https://agu2022fallmeeting-agu.ipostersessions.com/Default.aspx?s=F4-1D-76-03-58-59-8C-6B-34-41-95-91-64-BB-1C-6C) 
 
