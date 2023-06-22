@@ -13,15 +13,8 @@ I study seismic signals recorded on ocean bottom seismometers (OBS), including e
 
 ## Searching for shallow tremor in the Cascadia subduction zone using cabled OBS
 
-<br/>
-
-There are important standing questions for the Cascadia Subduction Zone with strong implications for the hazard associated with a large earthquake.
-
-
-- How much deformation occurs on the shallow portion of the Cascadia subduction zone?
-- Does any slip occur on the shallow plate interface, and/or surrounding subducting seamounts and splay faults?
+There are important standing questions for the Cascadia Subduction Zone with strong implications for the hazard associated with a large earthquake. How much deformation occurs on the shallow portion of the Cascadia subduction zone? Does any slip occur on the shallow plate interface, and/or surrounding subducting seamounts and splay faults?
   
-
 We need direct ocean bottom observations to answer these questions.
 
 To work towards this, I am starting a project to analyze seismic time series from two cabled broadband OBS on the Ocean Observatories Initiative near the Cascadia subduction zone deformation front. We are searching for evidence of non-volcanic tremor, with a plan to classify seismic signals using unsupervised learning and comparison to environmental (wind, currents) time series. 
@@ -31,8 +24,6 @@ To work towards this, I am starting a project to analyze seismic time series fro
 # The Juan de Fuca Ridge
 
 <img align="right" width="290" src="/assets/images/endeavour_eq_website.jpg"> 
-
-<br/><br/>
 
 ## Long-term earthquake monitoring of the Endeavour segment using cabled OBS
 
@@ -44,7 +35,7 @@ I am working with scientists at Ocean Networks Canada to monitor activity at the
 
 This work has been published in [Journal of Geophysical Research: Solid Earth](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JB025662).
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/>
 
 <img align="left" width="400" src="/assets/images/endeavour_ss_website.jpg"> 
 
