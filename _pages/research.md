@@ -34,7 +34,7 @@ I am working with scientists at Ocean Networks Canada to monitor activity at the
 This work has been published in [Journal of Geophysical Research: Solid Earth](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JB025662).
 
 
-<img align="left" height="500" src="/assets/images/endeavour_ss.png"> 
+<img align="left" width="550" src="/assets/images/endeavour_ss.png"> 
 
 ## Earthquake monitoring using a single ocean bottom seismometer
 
@@ -49,9 +49,9 @@ I am working to write up this project and will have something to share soon!
 
 ## Investigating small repeating earthquakes at the Endeavour Segment
 
-During my master's work, we noticed that many of the earthquakes at the Endeavour segment arrived as series of highly similar multiplets, hinting at tantalizing evidence of repeating earthquakes! 
+During my master's work, we noticed that many of the earthquakes at the Endeavour segment arrived as series of highly similar multiplets. I am working to identify and characterize these "repeating" earthquakes using template matching and waveform clustering. 
 
-I am working to identify and characterize these "repeating" earthquakes using template matching and waveform clustering. We think this may help us understand how the hydrothermal circulation cells at the Endeavour segment work, and if, where, and when any of the seafloor spreading is accomplished through slow slip. 
+This project will help us understand the hydrothermal circulation cells at the Endeavour segment, and if, where, and when any of the seafloor spreading is accomplished through slow slip. 
 
 I presented preliminary results of this work at AGU 2022. Check out the poster [here!](https://agu2022fallmeeting-agu.ipostersessions.com/Default.aspx?s=F4-1D-76-03-58-59-8C-6B-34-41-95-91-64-BB-1C-6C)
 
