@@ -8,7 +8,6 @@ excerpt: "I am interested in studying seismic signals recorded on ocean bottom s
 I study seismic signals recorded on ocean bottom seismometers (OBS), including earthquakes and tremor, to learn about mid-ocean ridge and subduction zone processes.
 
 # The Cascadia Subduction Zone
-
 <img align="left" width="300" src="/assets/images/CSZ_websitefigure.jpeg">
 
 ## Searching for shallow tremor in the Cascadia subduction zone using cabled OBS
@@ -19,11 +18,10 @@ We need direct ocean bottom observations to answer these questions.
 
 To work towards this, I am starting a project to analyze seismic time series from two cabled broadband OBS on the Ocean Observatories Initiative near the Cascadia subduction zone deformation front. We are searching for evidence of non-volcanic tremor, with a plan to classify seismic signals using unsupervised learning and comparison to environmental (wind, currents) time series. 
 
-<br/><br/>
 
 # The Juan de Fuca Ridge
 
-<img align="right" width="290" src="/assets/images/endeavour_eq_website.jpg"> 
+<img align="right" width="300" src="/assets/images/RegionalMapMonth_202306.jpg"> 
 
 ## Long-term earthquake monitoring of the Endeavour segment using cabled OBS
 
@@ -35,9 +33,8 @@ I am working with scientists at Ocean Networks Canada to monitor activity at the
 
 This work has been published in [Journal of Geophysical Research: Solid Earth](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JB025662).
 
-<br/><br/>
 
-<img align="left" width="400" src="/assets/images/endeavour_ss_website.jpg"> 
+<img align="left" width="300" src="/assets/images/endeavour_ss_website.jpg"> 
 
 ## Earthquake monitoring using a single ocean bottom seismometer
 
@@ -47,7 +44,6 @@ I have explored methods of single-station earthquake location that utilize the P
 
 I am working to write up this project and will have something to share soon!
 
-<br/><br/><br/><br/><br/>
 
 <img align="right" width="300" src="/assets/images/endeavour_repeating_website.jpg"> 
 
