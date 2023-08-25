@@ -15,6 +15,7 @@ I'm currently a Ph.D. student at the University of Washington, supervised by Dr.
 I'm starting to think about postdoc opportunities-- feel free to reach out!
 
 ## News and Updates
+__August 2023:__ Our paper on building commercial cloud resources for seismology workflows was published in [Seismica](https://seismica.library.mcgill.ca/article/view/979)!
 
 __April 2023:__ I traveled to Puerto Rico to present our work on building cloud computing resources for seismology at the SSA 2023 Meeting. Check out the [GitHub for this work](https://github.com/Denolle-Lab/seismicloud/tree/main) for more details!
 
