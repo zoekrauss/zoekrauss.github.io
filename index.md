@@ -8,7 +8,7 @@ header:
     image: "/assets/images/OBS_drop.jpg"
 ---
 
-## I study the tectonic boundaries that lie beneath our oceans using earthquake observations. 
+## I study the tectonic boundaries that lie beneath our oceans using earthquakes. 
 
 I'm currently a Ph.D. student at the University of Washington, supervised by Dr. William Wilcock. Before coming to the University of Washington in September 2019, I earned a B.A. in Physics with a Geophysics emphasis from Colorado College in May 2019.
 
