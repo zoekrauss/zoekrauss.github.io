@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Zoe Krauss"
   avatar : "/assets/images/bio-image.jpg"
-  bio    : "Incoming Postdoctoral Scholar, Pacific Northwest Seismic Network, University of Washington"
+  bio    : "Postdoctoral Researcher, Pacific Northwest Seismic Network, University of Washington"
   location: "Seattle, WA"
   links:
     - label: "UW SoO"
