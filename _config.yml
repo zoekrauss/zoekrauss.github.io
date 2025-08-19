@@ -66,9 +66,9 @@ author:
   bio    : "Postdoctoral Researcher, Pacific Northwest Seismic Network, University of Washington"
   location: "Seattle, WA"
   links:
-    - label: "UW SoO"
+    - label: "UW PNSN"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://www.ocean.washington.edu/home/Zoe_Krauss"
+      url: "https://www.pnsn.org/about/directory"
     - label: "zkrauss@uw.edu"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:zkrauss@uw.edu"
