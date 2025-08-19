@@ -12,11 +12,13 @@ header:
 
 I completed my Ph.D. in marine seismology in December 2024 at the University of Washington, supervised by Dr. William Wilcock. My dissertation focused on using cabled ocean bottom seismometer networks to constrain deformational cycles at both the Juan de Fuca mid-ocean ridge and the Cascadia subduction zone.
 
-I'll be starting as a postdoctoral scholar at the Pacific Northwest Seismic Network in February 2025, focused on exploring how we can improve earthquake early warning in the PNW using offshore networks.
+Currently, I'm a postdoctoral researcher at the Pacific Northwest Seismic Network. I'm exploring how we can improve earthquake early warning in the PNW using offshore networks.
 
 Feel free to reach out with any questions regarding my work!
 
 ## News and Updates
+
+__August 2025__: Two of my dissertation chapters were published this month! Check out our work looking for offshore tectonic tremor in Cascadia [here](https://seismica.library.mcgill.ca/article/view/1540), and our single-station catalog for the Endeavour segment [here](https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220240427/659707/A-Single-Station-Earthquake-Catalog-for-the).
 
 __December 2024__: We submitted our work looking for tectonic tremor in the shallow portion of the Cascadia subduction zone, and it is now available as a [preprint](https://www.authorea.com/users/527818/articles/1253562-potential-shallow-tectonic-tremor-signals-near-the-deformation-front-in-central-cascadia). Check it out for details on the potential tremor signals we found near the deformation front, and inspiration on how to look for tectonic tremor using just one ocean bottom seismometer!
 
